@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ptt-lol-crawler"
+version = "0.1.0"
+description = ""
+authors = ["Ma <z2715674@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+pandas = "^2.2.3"
+openpyxl = "^3.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
