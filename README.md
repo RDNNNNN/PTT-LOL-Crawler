@@ -6,9 +6,13 @@
 
 ## 執行
 
-進入虛擬環境 `poetry shell`
+### 進入虛擬環境
 
-安裝相關套件 `poetry install`
+`poetry shell`
+
+### 安裝相關套件
+
+`poetry install`
 
 ---
 
